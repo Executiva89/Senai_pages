@@ -1,0 +1,59 @@
+    
+    body{
+
+        background-color: #f5f5f5;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    
+         
+        
+    
+    .caixa-titulo{
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+
+        padding: 10px;
+    }
+
+
+    .cursos-tabela{
+
+        width: 1200px;
+        background-color: #fff;
+        border-collapse: collapse;
+        margin-top: 20px;
+    
+    }
+
+    th{
+        border-width: 1px;
+        border-style: solid;
+        border-color: #ddd;
+
+        text-align: left;
+        padding: 10px;
+    }
+
+
+    td{
+        border-width: 1px;
+        border-style: solid;
+        border-color: #ddd;
+        padding: 10px;
+
+    }
+
+    p{
+        color: #666
+    }
+
+    img{
+        width: 50%;
+
+        display: block;
+        margin: 0px auto;
+    }
+
+
